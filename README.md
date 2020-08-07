@@ -20,32 +20,32 @@
 
 ❗️  Project Overview
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Project%20Overview.PNG)
 
 ❗️  Datasets
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Datasets.PNG)
 
 ❗️  Preprocessing
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Data%20Preprocessing.PNG)
 
 ❗️  CNN Architecture
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/CNN%20Architecture.PNG)
 
 ❗️  CNN Model
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/CNN%20Model.PNG)
 
 ❗️  Training Accuracy & Validation Accuracy
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/TA_VA.PNG)
 
 ❗️  Training Loss & Validation Loss
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/TL_VL.PNG)
 
 ❗️  Output
 
-![]()
+![](https://github.com/yashindulkar/Face-Mask-Detection/blob/master/Images/Output.PNG)
